@@ -1,6 +1,18 @@
-#first-heading {
+.heading1 {
     color: red;
 }
-#second-paragraph {
-    color: blue;
+.heading2 {
+    color: red;
+}
+.heading3 {
+  color: red;
+}
+.paragraph1 {
+  color: blue;
+}
+.paragraph2 {
+  color: blue;
+}
+.paragraph3 {
+  color: blue;
 }
