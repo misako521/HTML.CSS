@@ -20,6 +20,13 @@
     .text-bold {
         font-weight: bold;
     }
+    .google-fonts {
+        /* ここにGoogle Fontsを指定します */
+     font-family: "Noto Sans JP", sans-serif;
+     font-optical-sizing: auto;
+     font-weight: 400;
+     font-style: normal;
+    }
 
     
 }
