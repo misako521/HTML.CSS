@@ -1,9 +1,13 @@
 #first-paragraph {
-  background-color: yellow;
+    width: 200px;
+    background-color: yellow;
 }
 #second-paragraph {
-  background-color: orange;
+    height: 100px;
+    background-color: orange;
 }
 #third-paragraph {
-  background-color: pink;
+    width: 50%;
+    height: 200px;
+    background-color: pink;
 }
